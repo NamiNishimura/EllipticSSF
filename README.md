@@ -2,7 +2,9 @@ Mathematica notebooks developed by Nami Nishimura
 
 ### How to use 
 Change the values for the resolution n, spin parameter a, radial distance of the point particle r0, domain of r* and m-mode. 
+
 EffectiveSource code provides you with the numerical values of the effective source. 
+
 EllipticSSF code provides you with the numerical values of radial and angular component of the scalar self-force. 
 
 # EllipticSSF
