@@ -1,12 +1,12 @@
 # EllipticSSF
 
-Developed by Nami Nishimura  
+Mathematica notebook developed by Nami Nishimura  
 
-## How to use 
+### How to use 
 
 Change the values for the resolution n, spin parameter a, radial distance of the point particle r0, domain of r* and m-mode. 
 
-## Our Thoretical Model 
+### Our Thoretical Model 
 
 Point particle carrying scalar cahrge q and moving around a massive Kerr black hole. 
 
